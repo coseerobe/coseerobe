@@ -16,3 +16,5 @@ Se siamo in tanti a fare cose sul territorio sono sicuro che ci viene bene… c�
 
 **Le mappe rialaborate con gli opendata sono realizzate con passione e sacrifici, fatte esclusivamente per IMPARARE ad usare strumenti Gis e WebGis, NON hanno alcun intento commerciale! L’unica finalità è esplorare le possibilità di rielaborazione e comunicazione offerte dagli [open data](https://it.wikipedia.org/wiki/Dati_aperti) o [dati pubblici](https://medium.com/open-data-stories/non-open-data-ma-dati-pubblici-la-metafora-dellacqua-b09ff1c24fe3).**
 Tutto il materiale da me rielaborato e pubblicato su github può essere clonato ed adattato liberamente ai propri scopi, con licenza:<br>[**CC BY-SA 4.0**](https://creativecommons.org/licenses/by-sa/4.0/deed.it) **- Attribuzione – Condividi allo stesso modo 4.0 Internazionale** 
+
+**Work in progress...**
